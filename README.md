@@ -12,7 +12,7 @@ I want to be the AMAN in your life, who is ready to wipe your tears, but never w
 I want to be the RAHUL in your life, who believes love happens once in Life, you only marry once & can have only one wife.<br>
 I want to be the BADRI in your life, who wants to impress you every day, But "will I ever speak correct English?", Can't Say.<br>
 
-So, I LOVE YOU, and I can't help it. <br>
+So, I LOVE YOU, and do stand by me. :-)<br>
 
 Yours <br>
 Vimal 
