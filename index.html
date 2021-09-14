@@ -1,4 +1,3 @@
-<!--Disclaimer: Information gathered from the form is not sent anywhere. This is entirely an HTML and CSS pen for my personal practicing. Hope to be advanced enough to do that soon.-->
 <head>
     <title>Happy Love at First Sight from My Side Anniversary!</title>
     <style>
@@ -136,8 +135,22 @@
                var d = document.createElement('div');
                c.forEach(item => {
                     var p = document.createElement('p');
-                    var text = document.createTextNode(item);
-                    p.appendChild(text);
+					var items = item.split('in your life');
+					var skip = false;
+					if(items.length == 1){
+						skip = true;
+					}	
+                    var text1 = document.createTextNode(items[0]);
+					p.appendChild(text1);
+					if(!skip){
+						var text2 = document.createTextNode('in your life');
+						var text3 = document.createTextNode(items[1]);
+						var st = document.createElement('strong');
+						
+						p.appendChild(text2);
+						st.appendChild(text3);
+						p.appendChild(st);
+					}
                     p.appendChild(document.createElement('br'));
                     p.appendChild(document.createElement('br'));
                     d.appendChild(p);
