@@ -1,5 +1,3 @@
-# Proposal
-
 I want to be the JAY in your life, who doesn't wear blue shirts and never maintains a To-Do list because he knows, a perfect relationship doesn't exist. <br>
 I want to be the Dr. ARMAAN MALIK in your life, who is not a Doctor but an engineer, who can still increase your Breath by coming near.<br>
 I want to be the MADDY in your life, who is RAJEEV (from America) and eats chicken but enjoys eating your leftover and helping in the kitchen. <br>
