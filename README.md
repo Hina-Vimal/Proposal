@@ -5,6 +5,8 @@ The day, I saw you, I realized,<br>
 I want to be the JAY in your life, who doesn't wear blue shirts and never maintains a To-Do list because he knows, a perfect relationship doesn't exist. <br>
 I want to be the SAHIL in your life, who loves you despite your tantrums and mood, and your food tastes better than MONISHA's food.<br>
 I want to be the Dr. ARMAAN MALIK in your life, who is not a Doctor but an engineer, who can still increase your Breath by coming near.<br>
+I want to be the CHANDLER in your life, who prefer cats over frogs but treats you as MONICA and fine with Dogs. <br>
+I want to be the SAMRAT in your life, who likes you as CHASHMISH, be like GUNJAN, but don't deny to give a Kiss. <br>
 I want to be the MADDY in your life, who is RAJEEV (from America) and eats chicken but enjoys eating your leftover and helping in the kitchen. <br>
 I want to be HARRY in your life, who will travel the world with you, in order to keep the SEJAL alive in you.<br>
 I want to be the RAJ in your life, who is ready to get lost with you in Farms, and wants to show love by spreading his arms.<br>
